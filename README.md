@@ -4,7 +4,7 @@ This is  a simple Task Management System built with FastAPI.
 
 ## Setup and Installation
 
-1. Clone the github repository: https://github.com/Kushagradheer/task-management-api.git
+1. Clone the github repository: https://github.com/Kushagradheer/fast_api.git
 
 
 2. Create a virtual environment and activate it:  
